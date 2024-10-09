@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\Winform\\3DC\\3DCORC\\Vision_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3592F740-C3E2-4FD3-AABA-F1895FB83C5B}|HPMML\\3DCFinal.csproj|d:\\workspace\\winform\\3dc\\3dcorc\\vision_solution\\hpmml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3592F740-C3E2-4FD3-AABA-F1895FB83C5B}|HPMML\\3DCFinal.csproj|solutionrelative:hpmml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3592F740-C3E2-4FD3-AABA-F1895FB83C5B}|HPMML\\3DCFinal.csproj|D:\\Workspace\\Winform\\3DC\\3DCORC\\Vision_Solution\\hpmml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3592F740-C3E2-4FD3-AABA-F1895FB83C5B}|HPMML\\3DCFinal.csproj|solutionrelative:hpmml\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Workspace\\Winform\\3DC\\3DCORC\\Vision_Solution\\HPMML\\Form1.cs",
+              "RelativeDocumentMoniker": "HPMML\\Form1.cs",
+              "ToolTip": "D:\\Workspace\\Winform\\3DC\\3DCORC\\Vision_Solution\\HPMML\\Form1.cs",
+              "RelativeToolTip": "HPMML\\Form1.cs",
+              "ViewState": "AQIAAJ4BAAAAAAAAAAAAwKQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:42:51.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Workspace\\Winform\\3DC\\3DCORC\\Vision_Solution\\HPMML\\Form1.cs",
+              "RelativeDocumentMoniker": "HPMML\\Form1.cs",
+              "ToolTip": "D:\\Workspace\\Winform\\3DC\\3DCORC\\Vision_Solution\\HPMML\\Form1.cs [Design]",
+              "RelativeToolTip": "HPMML\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:42:47.102Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
